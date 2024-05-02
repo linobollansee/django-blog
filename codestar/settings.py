@@ -31,6 +31,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '8000-linobollanse-djangoblog-63llerlgfwe.ws-eu112.gitpod.io',
+    'django-blog-3a87.onrender.com'
 ]
 
 
