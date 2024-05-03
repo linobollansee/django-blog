@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    '8000-linobollanse-djangoblog-63llerlgfwe.ws-eu112.gitpod.io',
+    '.gitpod.io',
     'django-blog-3a87.onrender.com'
 ]
 
